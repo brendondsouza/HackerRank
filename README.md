@@ -10,6 +10,6 @@ Warm-up Challenges (4/4)
 ✅ Jumping on the cloud
 ✅ Repeating strings
 
-Arrays (1/5)
+Arrays (2/5)
 ✅ Left rotation
 ✅ 2D Array
