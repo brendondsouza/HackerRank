@@ -13,3 +13,6 @@ Warm-up Challenges (4/4)
 Arrays (2/5)
 ✅ Left rotation
 ✅ 2D Array
+
+Dictionaries and Hashmaps
+✅ Two strings
