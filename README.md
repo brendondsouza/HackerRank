@@ -14,6 +14,6 @@ Arrays (2/5)
 ✅ Left rotation
 ✅ 2D Array
 
-Dictionaries and Hashmaps
+Dictionaries and Hashmaps (2/5)
 ✅ Two strings
 ✅ Ransom note
