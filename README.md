@@ -16,3 +16,4 @@ Arrays (2/5)
 
 Dictionaries and Hashmaps
 ✅ Two strings
+✅ Ransom note
