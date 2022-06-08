@@ -17,3 +17,6 @@ Arrays (2/5)
 Dictionaries and Hashmaps (2/5)
 ✅ Two strings
 ✅ Ransom note
+
+Sorting (1/5)
+✅ Bubble sort
