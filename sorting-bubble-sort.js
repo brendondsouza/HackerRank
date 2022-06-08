@@ -59,3 +59,28 @@ function countSwaps(a) {
         console.log(`Last Element: ${a[a.length-1]}`)
     
     }
+
+    //further optimized
+
+    function countSwaps(a) {
+        let isSorted = false
+        let lastUnsorted = a.length-1
+            let count = 0
+            while(!isSorted){
+                isSorted = true
+            for(let i = 0; i < lastUnsorted; i++){
+                if(a[i] > a[i+1]){
+                    let temp = a[i+1]
+                    a[i+1] = a[i]
+                    a[i] = temp
+                    count++
+                    isSorted = false
+                }
+                
+            } lastUnsorted--
+            }
+            console.log(`Array is sorted in ${count} swaps.`)
+            console.log(`First Element: ${a[0]}`)
+            console.log(`Last Element: ${a[a.length-1]}`)
+        
+        }
